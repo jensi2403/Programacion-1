@@ -1,0 +1,13 @@
+C:\Users\ERCUSER\source\repos\Transacciones\Transacciones\bin\Debug\netcoreapp3.1\Transacciones.exe
+C:\Users\ERCUSER\source\repos\Transacciones\Transacciones\bin\Debug\netcoreapp3.1\Transacciones.deps.json
+C:\Users\ERCUSER\source\repos\Transacciones\Transacciones\bin\Debug\netcoreapp3.1\Transacciones.runtimeconfig.json
+C:\Users\ERCUSER\source\repos\Transacciones\Transacciones\bin\Debug\netcoreapp3.1\Transacciones.runtimeconfig.dev.json
+C:\Users\ERCUSER\source\repos\Transacciones\Transacciones\bin\Debug\netcoreapp3.1\Transacciones.dll
+C:\Users\ERCUSER\source\repos\Transacciones\Transacciones\bin\Debug\netcoreapp3.1\Transacciones.pdb
+C:\Users\ERCUSER\source\repos\Transacciones\Transacciones\obj\Debug\netcoreapp3.1\Transacciones.csprojAssemblyReference.cache
+C:\Users\ERCUSER\source\repos\Transacciones\Transacciones\obj\Debug\netcoreapp3.1\Transacciones.csproj.CoreCompileInputs.cache
+C:\Users\ERCUSER\source\repos\Transacciones\Transacciones\obj\Debug\netcoreapp3.1\Transacciones.AssemblyInfoInputs.cache
+C:\Users\ERCUSER\source\repos\Transacciones\Transacciones\obj\Debug\netcoreapp3.1\Transacciones.AssemblyInfo.cs
+C:\Users\ERCUSER\source\repos\Transacciones\Transacciones\obj\Debug\netcoreapp3.1\Transacciones.dll
+C:\Users\ERCUSER\source\repos\Transacciones\Transacciones\obj\Debug\netcoreapp3.1\Transacciones.pdb
+C:\Users\ERCUSER\source\repos\Transacciones\Transacciones\obj\Debug\netcoreapp3.1\Transacciones.genruntimeconfig.cache
